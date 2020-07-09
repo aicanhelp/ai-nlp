@@ -10,3 +10,12 @@
 [submodule "resources/ERRNIE"]
 	path = resources/ERRNIE
 	url = https://github.com/PaddlePaddle/ERNIE.git
+[submodule "resources/textblob"]
+	path = resources/textblob
+	url = https://github.com/sloria/TextBlob.git
+[submodule "resources/ParlAI"]
+	path = resources/ParlAI
+	url = https://github.com/facebookresearch/ParlAI.git
+[submodule "resources/DeepPavlov"]
+	path = resources/DeepPavlov
+	url = https://github.com/deepmipt/DeepPavlov.git
