@@ -1,3 +1,9 @@
 [submodule "resources/botkit"]
 	path = resources/botkit
 	url = https://github.com/howdyai/botkit.git
+[submodule "resources/Kashgari"]
+	path = resources/Kashgari
+	url = https://github.com/BrikerMan/Kashgari.git
+[submodule "resources/fastText"]
+	path = resources/fastText
+	url = https://github.com/facebookresearch/fastText.git
