@@ -7,3 +7,6 @@
 [submodule "resources/fastText"]
 	path = resources/fastText
 	url = https://github.com/facebookresearch/fastText.git
+[submodule "resources/ERRNIE"]
+	path = resources/ERRNIE
+	url = https://github.com/PaddlePaddle/ERNIE.git
