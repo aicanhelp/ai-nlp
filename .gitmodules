@@ -19,3 +19,18 @@
 [submodule "resources/DeepPavlov"]
 	path = resources/DeepPavlov
 	url = https://github.com/deepmipt/DeepPavlov.git
+[submodule "resources/chatterbot"]
+	path = resources/chatterbot
+	url = https://github.com/gunthercox/ChatterBot.git
+[submodule "resources/spaCy"]
+	path = resources/spaCy
+	url = https://github.com/explosion/spaCy.git
+[submodule "resources/nlp-architect"]
+	path = resources/nlp-architect
+	url = https://github.com/NervanaSystems/nlp-architect.git
+[submodule "resources/fairseq"]
+	path = resources/fairseq
+	url = https://github.com/pytorch/fairseq.git
+[submodule "resources/stanfordnlp-stanza"]
+	path = resources/stanfordnlp-stanza
+	url = https://github.com/stanfordnlp/stanza.git
