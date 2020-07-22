@@ -34,3 +34,9 @@
 [submodule "resources/stanfordnlp-stanza"]
 	path = resources/stanfordnlp-stanza
 	url = https://github.com/stanfordnlp/stanza.git
+[submodule "resources/testhero"]
+	path = resources/testhero
+	url = https://github.com/jbesomi/texthero.git
+[submodule "resources/didi-delta"]
+	path = resources/didi-delta
+	url = https://github.com/didi/delta.git
