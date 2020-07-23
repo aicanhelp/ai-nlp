@@ -40,3 +40,60 @@
 [submodule "resources/didi-delta"]
 	path = resources/didi-delta
 	url = https://github.com/didi/delta.git
+[submodule "resources/transformers"]
+	path = resources/transformers
+	url = https://github.com/huggingface/transformers.git
+[submodule "resources/hanLP"]
+	path = resources/hanLP
+	url = https://github.com/hankcs/HanLP.git
+[submodule "resources/NLP-progress"]
+	path = resources/NLP-progress
+	url = https://github.com/sebastianruder/NLP-progress.git
+[submodule "resources/huggingface-nlp"]
+	path = resources/huggingface-nlp
+	url = https://github.com/huggingface/nlp.git
+[submodule "resources/flairNLP"]
+	path = resources/flairNLP
+	url = https://github.com/flairNLP/flair.git
+[submodule "resources/snips-nlu"]
+	path = resources/snips-nlu
+	url = https://github.com/snipsco/snips-nlu.git
+[submodule "resources/allennlp"]
+	path = resources/allennlp
+	url = https://github.com/allenai/allennlp.git
+[submodule "resources/awesome-nlp"]
+	path = resources/awesome-nlp
+	url = https://github.com/keon/awesome-nlp.git
+[submodule "resources/gluon-nlp"]
+	path = resources/gluon-nlp
+	url = https://github.com/dmlc/gluon-nlp.git
+[submodule "resources/microsoft-nlp-recipes"]
+	path = resources/microsoft-nlp-recipes
+	url = https://github.com/microsoft/nlp-recipes.git
+[submodule "resources/funNLP"]
+	path = resources/funNLP
+	url = https://github.com/fighting41love/funNLP.git
+[submodule "resources/OpenNMT-py"]
+	path = resources/OpenNMT-py
+	url = https://github.com/OpenNMT/OpenNMT-py.git
+[submodule "resources/light-nlp/lightUtils"]
+	path = resources/light-nlp/lightUtils
+	url = https://github.com/smilelight/lightUtils.git
+[submodule "resources/light-nlp/lightKG"]
+	path = resources/light-nlp/lightKG
+	url = https://github.com/smilelight/lightKG.git
+[submodule "resources/light-nlp/lightNLP"]
+	path = resources/light-nlp/lightNLP
+	url = https://github.com/smilelight/lightNLP.git
+[submodule "resources/texar"]
+	path = resources/texar
+	url = https://github.com/asyml/texar.git
+[submodule "resources/light-nlp/lightText"]
+	path = resources/light-nlp/lightText
+	url = https://github.com/smilelight/lightText.git
+[submodule "resources/nltk"]
+	path = resources/nltk
+	url = https://github.com/nltk/nltk.git
+[submodule "resources/stanfordnlp-CoreNLP"]
+	path = resources/stanfordnlp-CoreNLP
+	url = https://github.com/stanfordnlp/CoreNLP.git
