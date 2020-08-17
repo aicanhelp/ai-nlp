@@ -97,3 +97,6 @@
 [submodule "resources/stanfordnlp-CoreNLP"]
 	path = resources/stanfordnlp-CoreNLP
 	url = https://github.com/stanfordnlp/CoreNLP.git
+[submodule "resources/vqa-mmf"]
+	path = resources/vqa-mmf
+	url = https://github.com/facebookresearch/mmf.git
