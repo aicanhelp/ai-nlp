@@ -100,3 +100,51 @@
 [submodule "resources/vqa-mmf"]
 	path = resources/vqa-mmf
 	url = https://github.com/facebookresearch/mmf.git
+[submodule "resources/bert/bort"]
+	path = resources/bert/bort
+	url = https://github.com/alexa/bort
+[submodule "resources/bert/ner_zh"]
+	path = resources/bert/ner_zh
+	url = https://github.com/luopeixiang/named_entity_recognition
+[submodule "resources/thunlp/gnnpapers"]
+	path = resources/thunlp/gnnpapers
+	url = https://github.com/thunlp/GNNPapers.git
+[submodule "resources/thunlp/nrepapers"]
+	path = resources/thunlp/nrepapers
+	url = https://github.com/thunlp/NREPapers.git
+[submodule "resources/thunlp/scpapers"]
+	path = resources/thunlp/scpapers
+	url = https://github.com/thunlp/SCPapers.git
+[submodule "resources/thunlp/plmpapers"]
+	path = resources/thunlp/plmpapers
+	url = https://github.com/thunlp/PLMpapers.git
+[submodule "resources/thunlp/taadpapers"]
+	path = resources/thunlp/taadpapers
+	url = https://github.com/thunlp/TAADpapers.git
+[submodule "resources/thunlp/nrlpapers"]
+	path = resources/thunlp/nrlpapers
+	url = https://github.com/thunlp/NRLPapers.git
+[submodule "resources/thunlp/krlpapers"]
+	path = resources/thunlp/krlpapers
+	url = https://github.com/thunlp/KRLPapers.git
+[submodule "resources/thunlp/neuirpapers"]
+	path = resources/thunlp/neuirpapers
+	url = https://github.com/thunlp/NeuIRPapers.git
+[submodule "resources/thunlp/rcpapers"]
+	path = resources/thunlp/rcpapers
+	url = https://github.com/thunlp/RCPapers.git
+[submodule "resources/thunlp/legalpapers"]
+	path = resources/thunlp/legalpapers
+	url = https://github.com/thunlp/LegalPapers.git
+[submodule "resources/thunlp/openne"]
+	path = resources/thunlp/openne
+	url = https://github.com/thunlp/OpenNE.git
+[submodule "resources/fastai"]
+	path = resources/fastai
+	url = https://gitee.com/aimo-ai/fastai.git
+[submodule "resources/thunlp/openke"]
+	path = resources/thunlp/openke
+	url = https://gitee.com/aimo-ai/thunlp-OpenKE.git
+[submodule "resources/thunlp/opennre"]
+	path = resources/thunlp/opennre
+	url = https://gitee.com/aimo-ai/thunlp-OpenNRE.git
