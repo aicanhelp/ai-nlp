@@ -40,9 +40,6 @@
 [submodule "resources/didi-delta"]
 	path = resources/didi-delta
 	url = https://github.com/didi/delta.git
-[submodule "resources/transformers"]
-	path = resources/transformers
-	url = https://github.com/huggingface/transformers.git
 [submodule "resources/hanLP"]
 	path = resources/hanLP
 	url = https://github.com/hankcs/HanLP.git
@@ -148,3 +145,6 @@
 [submodule "resources/thunlp/opennre"]
 	path = resources/thunlp/opennre
 	url = https://gitee.com/aimo-ai/thunlp-OpenNRE.git
+[submodule "resources/transformers"]
+	path = resources/transformers
+	url = https://gitee.com/aimo-ai/transformers.git
