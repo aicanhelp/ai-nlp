@@ -148,3 +148,9 @@
 [submodule "resources/transformers"]
 	path = resources/transformers
 	url = https://gitee.com/aimo-ai/transformers.git
+[submodule "resources/rasa"]
+	path = resources/rasa
+	url = https://github.com/RasaHQ/rasa.git
+[submodule "resources/rasa-sdk"]
+	path = resources/rasa-sdk
+	url = https://github.com/RasaHQ/rasa-sdk.git
